@@ -13,10 +13,8 @@ const Dashboard = () => {
 
   return (
     <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-blue-100 via-white to-purple-100 px-4">
-      
       {/* Glass Card */}
       <div className="backdrop-blur-lg bg-white/60 shadow-2xl rounded-3xl p-10 flex flex-col items-center space-y-6 border border-white/30">
-        
         {/* Logo */}
         <div className="p-4 bg-white rounded-2xl shadow-md">
           <img
